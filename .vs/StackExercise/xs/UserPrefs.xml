@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4DCAB33C-FBA3-4914-AC59-3D78763725CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackExercise/Node.cs">
+    <Files>
+      <File FileName="StackExercise/Program.cs" Line="25" Column="45" />
+      <File FileName="StackExercise/Node.cs" Line="12" Column="40" />
+      <File FileName="StackExercise/Stack.cs" Line="16" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StackExercise" expanded="True">
+            <Node name="StackExercise" expanded="True">
+              <Node name="Node.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StackExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

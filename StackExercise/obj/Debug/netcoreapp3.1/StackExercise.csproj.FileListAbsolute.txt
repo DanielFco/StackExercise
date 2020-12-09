@@ -1,0 +1,12 @@
+/Users/daniel/Projects/StackExercise/StackExercise/bin/Debug/netcoreapp3.1/StackExercise.deps.json
+/Users/daniel/Projects/StackExercise/StackExercise/bin/Debug/netcoreapp3.1/StackExercise.runtimeconfig.json
+/Users/daniel/Projects/StackExercise/StackExercise/bin/Debug/netcoreapp3.1/StackExercise.runtimeconfig.dev.json
+/Users/daniel/Projects/StackExercise/StackExercise/bin/Debug/netcoreapp3.1/StackExercise.dll
+/Users/daniel/Projects/StackExercise/StackExercise/bin/Debug/netcoreapp3.1/StackExercise.pdb
+/Users/daniel/Projects/StackExercise/StackExercise/obj/Debug/netcoreapp3.1/StackExercise.csprojAssemblyReference.cache
+/Users/daniel/Projects/StackExercise/StackExercise/obj/Debug/netcoreapp3.1/StackExercise.AssemblyInfoInputs.cache
+/Users/daniel/Projects/StackExercise/StackExercise/obj/Debug/netcoreapp3.1/StackExercise.AssemblyInfo.cs
+/Users/daniel/Projects/StackExercise/StackExercise/obj/Debug/netcoreapp3.1/StackExercise.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/StackExercise/StackExercise/obj/Debug/netcoreapp3.1/StackExercise.dll
+/Users/daniel/Projects/StackExercise/StackExercise/obj/Debug/netcoreapp3.1/StackExercise.pdb
+/Users/daniel/Projects/StackExercise/StackExercise/obj/Debug/netcoreapp3.1/StackExercise.genruntimeconfig.cache
